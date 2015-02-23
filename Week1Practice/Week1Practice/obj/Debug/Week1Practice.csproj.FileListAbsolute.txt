@@ -4,3 +4,6 @@ C:\Users\Technologist\Documents\GitHub\Week1Practice\Week1Practice\bin\Debug\Wee
 C:\Users\Technologist\Documents\GitHub\Week1Practice\Week1Practice\bin\Debug\Week1Practice.pdb
 C:\Users\Technologist\Documents\GitHub\Week1Practice\Week1Practice\obj\Debug\Week1Practice.exe
 C:\Users\Technologist\Documents\GitHub\Week1Practice\Week1Practice\obj\Debug\Week1Practice.pdb
+C:\Users\Technologist\Documents\GitHub\Weekly\Week1Practice\Week1Practice\bin\Debug\Week1Practice.exe.config
+C:\Users\Technologist\Documents\GitHub\Weekly\Week1Practice\Week1Practice\obj\Debug\Week1Practice.exe
+C:\Users\Technologist\Documents\GitHub\Weekly\Week1Practice\Week1Practice\obj\Debug\Week1Practice.pdb
