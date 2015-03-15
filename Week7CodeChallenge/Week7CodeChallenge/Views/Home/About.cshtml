@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "About";
+    if (!Request.IsAjaxRequest())
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}<script src="~/Scripts/About.js"></script>
+
+<h2>About</h2>
+<div class="text-center" id="abouttabs">
+        <button data-url="@Url.Action("Who", "Home")" type="button" class="btn btn-default about">Who</button>
+        <button data-url="@Url.Action("What", "Home")" type="button" class="btn btn-default about">What</button>
+        <button data-url="@Url.Action("When", "Home")" type="button" class="btn btn-default about">When</button>
+        <button data-url="@Url.Action("Where", "Home")" type="button" class="btn btn-default about">Where</button>
+        <button data-url="@Url.Action("How", "Home")" type="button" class="btn btn-default about">How</button>
+
+    
+</div>
+<div id="aboutcontent">
+
+</div>
+
