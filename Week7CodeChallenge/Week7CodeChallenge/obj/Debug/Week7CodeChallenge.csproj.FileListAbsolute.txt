@@ -19,3 +19,4 @@ C:\Users\Technologist\Documents\GitHub\Weekly\Week7CodeChallenge\Week7CodeChalle
 C:\Users\Technologist\Documents\GitHub\Weekly\Week7CodeChallenge\Week7CodeChallenge\bin\System.Web.Mvc.xml
 C:\Users\Technologist\Documents\GitHub\Weekly\Week7CodeChallenge\Week7CodeChallenge\obj\Debug\Week7CodeChallenge.dll
 C:\Users\Technologist\Documents\GitHub\Weekly\Week7CodeChallenge\Week7CodeChallenge\obj\Debug\Week7CodeChallenge.pdb
+C:\Users\Technologist\Documents\GitHub\Weekly\Week7CodeChallenge\Week7CodeChallenge\obj\Debug\Week7CodeChallenge.csprojResolveAssemblyReference.cache
