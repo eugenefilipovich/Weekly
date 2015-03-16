@@ -12,7 +12,7 @@ namespace Week7CodeChallenge.Models
     using System;
     using System.Collections.Generic;
     
-    public partial class ContactPageForms
+    public partial class ContactPageForm
     {
         public int ContactID { get; set; }
         public string FirstName { get; set; }

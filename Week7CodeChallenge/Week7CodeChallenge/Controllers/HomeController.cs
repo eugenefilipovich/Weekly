@@ -43,13 +43,13 @@ namespace Week7CodeChallenge.Controllers
         [HttpGet]
         public ActionResult Contact()
         {
-            Models.ContactPageForms contactForm = new Models.ContactPageForms();
+            Models.ContactPageForm contactForm = new Models.ContactPageForm();
             return PartialView();
         }
         [HttpPost]
-        public ActionResult Contact(Models.ContactPageForms contactForm)
+        public ActionResult Contact(Models.ContactPageForm contactForm)
         {
-            Models.sp6EugeneEntities db = new Models.sp6EugeneEntities();
+            Models.sp6EugeneEntities2 db = new Models.sp6EugeneEntities2();
             db.ContactPageForms.Add(contactForm);
             db.SaveChanges();
             return Content("Thanks!");
